@@ -9,6 +9,7 @@
      href="img/code.ico" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/main.css" rel="stylesheet">
+	<script src="java.js"></script>
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -16,37 +17,67 @@
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
   </head>
 <body>
-<div class="about">
-<div class="col-sm-9 navv">
+<div class="about" id="about">
+<div class="col-sm-9 navv ">
 Joshua Smith
 </div> 
-<div class="col-sm-1 navv">
-<a href="mailto:josh_smith_101@hotmail.com">Email</a>
+<div class="col-sm-1 navv text-center">
+<a href="#skills">Email</a>
 </div> 
-<div class="col-sm-1 navv">
-<a href="github.com/smithjosh124">GitHub</a>
+<div class="col-sm-1 navv text-center">
+<a href="http://github.com/smithjosh124">GitHub</a>
 </div> 
-<div class="col-sm-1 navv">
-<a href="ca.linkedin.com/in/SmithJosh124">LinkedIn</a>
+<div class="col-sm-1 navv text-center">
+<a href="http://ca.linkedin.com/in/SmithJosh124">LinkedIn</a>
 </div> 
-<!--	
-<div class="contain col-sm-4">
-<div class="polaroid">
-  <img src="img/self.jpg" alt="Norway" style="width:100%">
-  <div class="polaroidtext">
-    <h1>Joshua Smith</h1>
-  </div>
-</div>
-</div>
--->
 <div class="contain col-sm-12">
 <h1>Welcome</h1>
 <p>
 My name is Joshua Smith. I'm a Niagara based <code>Developer</code> currently studying at <code>@Niagara College</code> for Computer Programming Analyst.
 </p>
-
+<div class="contain col-sm-12 arrow">
+<a href="#skills"><img src="img/down.png" alt="Scroll Down Button"></a>
+</div>
 </div>
 
+</div>
+<div class="skills text-center" id="skills">
+<div class="contain col-sm-12 text-center">
+<h1>Skills</h1>
+<p>
+ASP.NET C# Java SQLServer MVC MySql JavaScript
+HTML5 Jquery CSS Bootstrap Php Windows Linux Photoshop VisualStudio GIT
+</p>
+</div>
+<div class="contain col-sm-12 arrow">
+<a href="#about"><img src="img/up.png" alt="Scroll Down Button"></a>
+</div>
+</div>
+<!--
+<div class="projects" id="projects">
+<div class="contain col-sm-12 text-center"> 
+
+<h1>Projects</h1> 
+
+  <div class="col-sm-12 text-center">
+  <h3>HPFS</h3>
+  <p>Backend delopment using asp.net</p>
+  <a href="#" alt="">
+<img class="img-responsive" src="img/project/hps.jpg" alt="Chania">
+</a>
+  </div>
+
+<div class="contain col-sm-12 arrow">
+<a href="#about"><img src="img/up.png" alt="Scroll Down Button"></a>
+</div>
+    </div>
+  </div>
+  -->
+<div class="footer">
+<div class="contain col-sm-12 text-center"> 
+<h2>Follow Me</h2>
+<h4><a href="http://twitter.com/"><code>@Twitter</code></a>&nbsp;<a href="http://github.com/smithjosh124"><code>@Github</code></a>&nbsp;<a href="http://ca.linkedin.com/in/SmithJosh124"><code>@LinkedIn</code></a></h4>
+<p>©Joshua Smith 2016<p>
 </div>
 </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -54,4 +85,20 @@ My name is Joshua Smith. I'm a Niagara based <code>Developer</code> currently st
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
   </body>
+  <script>
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+        || location.hostname == this.hostname) {
+
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+           if (target.length) {
+             $('html,body').animate({
+                 scrollTop: target.offset().top
+            }, 1000);
+            return false;
+        }
+    }
+}); 	
+  </script>
 </html>

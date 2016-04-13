@@ -3,6 +3,15 @@ body {
 	font-family: 'Roboto Condensed', sans-serif;
 	background-color:#006BFF;
 }
+
+
+.about {
+	padding-top:10px;
+	width:100%;
+	height:770px;
+	background-color:#FFA800;
+	color:white;
+}
 .about .navv a {
 	text-align:center;
 	text-decoration:none;
@@ -18,6 +27,7 @@ body {
 	font-size:30px;
 	
 }
+
 .about a:hover{
 color:#006BFF;
 	}	
@@ -25,21 +35,21 @@ color:#006BFF;
 	font-weight:400;
 	color:white;
 }
-
-
-
-.about {
-	padding-top:10px;
-	width:100%;
-	height:599px;
-	background-color:#FFA800;
-	color:white;
+.about a img{
+	width:40px;
+	height:40px;
+	float:bottom;
+	border-top:100px;
 }
+
 .about .contain{
 	padding-top:10%;
 text-align:center;
 
 
+}
+.about .arrow{
+padding-top:170px;	
 }
 .about img{
 	width:150px;
@@ -55,57 +65,61 @@ font-weight:700;
 	font-size:30px;
 }
 
-.about .polaroid {
-    width: 100%;
-	max-width:300px;
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	margin-bottom: 25px;
-	margin-left: auto ;
-  margin-right: auto ;
-	}
-
-
-.about .polaroidtext {
-	
-    text-align: center;
-    padding: 10px 20px;
-	font-weight:700;
-	font-size:30px;
-	color:black;
-}
 
 .about .desc{
 	padding-left:0;
 }
 
 .skills{
+	border-top:100px;
 	width:100%;
-	height:400px;
+	height:450px;
 	color:white;
 	text-align: center;
 }
 .skills h1{
 	font-weight:700;
-	font-size:200px;
+	font-size:70px;
 	
 }
 .skills p{
 font-size:30px;	
 }
+.skills img{
+	height:40px;
+}
+.skills .arrow{
+padding-top:220px;	
+}
+
 
 .projects{
 	padding-top:5px;
 	width:100%;
-	height:600px;
+	height:700px;
 	background-color:#FFA800;
 	color:white;
 }
+.projects a img{
+	max-height:300px;
+
+}
+.projects .arrow img{
+	height:40px;
+}
+.projects .arrow{
+padding-top:170px;	
+}
+
+
 .footer{
 	width:100%;
 	height:100px;
 	color:white;
 	text-align: center;
+}
+.footer a{
+	text-decoration:none;
 }
 .footer h4{
 	font-size:15px;
@@ -113,5 +127,27 @@ font-size:30px;
 .footer p{
 	font-size:10px;
 }
-
-
+@media (max-width: 600px) {
+	.arrow{
+	display:none;
+	}
+    }
+@media only screen and (min-width : 480px) {
+.about {
+	height:510px;
+	}
+	.projects{
+	height:1200px;
+	}
+    }
+	@media only screen and (min-width : 992px) {
+	.about {
+	height:600px;
+	}
+	.projects{
+	height:600px;
+	}
+	.skills{
+		height:490px;
+		}
+    }
