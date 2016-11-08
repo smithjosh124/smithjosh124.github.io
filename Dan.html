@@ -270,10 +270,10 @@ margin-top:170px;
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
 	    <li><a href="#about">TATTOO</a></li>
-		<li><a href="#Portfolio">INFO</a></li>
-        <li><a href="#resume">ART</a></li>
-		<li><a href="#contact">BLOG</a></li>
-		<li><a href="#contact">BIO</a></li>
+		<li><a href="#Portfolio">BIO</a></li>
+        <li><a href="#resume">BLOG</a></li>
+		<li><a href="#contact">ART</a></li>
+		<li><a href="#contact">INFO</a></li>
       </ul>
     </div>
   </div>
@@ -283,45 +283,6 @@ margin-top:170px;
 </div>
 <div class="heroimageoverlay">
 </div>
-<!-- Container (about Section) -->
-
-<script>
-$(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a, footer a[href='#home']").on('click', function(event) {
-    // Make sure this.hash has a value before overriding default behavior
-    if (this.hash !== "") {
-      // Prevent default anchor click behavior
-      event.preventDefault();
-
-      // Store hash
-      var hash = this.hash;
-
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top
-      }, 900, function(){
-   
-        // Add hash (#) to URL when done scrolling (default click behavior)
-        window.location.hash = hash;
-      });
-    } // End if
-  });
-  
-  $(window).scroll(function() {
-    $(".slideanim").each(function(){
-      var pos = $(this).offset().top;
-
-      var winTop = $(window).scrollTop();
-        if (pos < winTop + 600) {
-          $(this).addClass("slide");
-        }
-    });
-  });
-})
-</script>
 
 </body>
 </html>
-
