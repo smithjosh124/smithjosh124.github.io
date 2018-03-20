@@ -13,7 +13,11 @@ var x = document.getElementById("demo");
 
 function getLocation() {
     if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(showPosition, showError);
+        $.getJSON( "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=4841 3rd Ave, Niagara Falls, ON L2E 4L9&destinations=880 Laurentian Dr, Burlington, ON L7N 3V6&key=AIzaSyAZJ8j242J4w0Mokr6JGi6jILVbDrI0W0Y", function( data ) {
+            alert(data);
+            navigator.geolocation.getCurrentPosition(showPosition, showError);
+        });
+        
     } else { 
         x.innerHTML = "Geolocation is not supported by this browser.";
     }
