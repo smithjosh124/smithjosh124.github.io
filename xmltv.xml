@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv date="{Current Date}" source-info-url="http://smithjosh124.github.io." source-info-name="LIVE GUIDE">
+<tv source-info-url="http://smithjosh124.github.io." source-info-name="LIVE GUIDE">
  <channel id="NBATOR">
 		
 		<display-name>NBA Toronto Raptors Live Stream</display-name>
