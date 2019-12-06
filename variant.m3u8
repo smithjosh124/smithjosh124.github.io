@@ -5,15 +5,15 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 
 
-#EXTINF:-1 tvg-id="NBATOR" tvg-name="NBA Toronto Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-toronto-raptors.svg" group-title="NBA TEAM STREAM",NBA Toronto Live Stream
+#EXTINF:-1 tvg-id="NBATOR" tvg-name="NBA Toronto Raptors Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-toronto-raptors.svg" group-title="NBA TEAM STREAM",NBA Toronto Raptors Live Stream
 http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:-1 tvg-id="NBAHOU" tvg-name="NBA Houston Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-houston-rockets.svg" group-title="NBA TEAM STREAM",NBA Houston Live Stream
+#EXTINF:-1 tvg-id="NBAHOU" tvg-name="NBA Houston Rockets Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-houston-rockets.svg" group-title="NBA TEAM STREAM",NBA Houston Rockets Live Stream
 http://allenz.xyz/neinz/video/nba/hou.m3u8
-#EXTINF:-1 tvg-id="NBAPHI" tvg-name="NBA Philadelphia Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-philadelphia-76ers.svg" group-title="NBA TEAM STREAM",NBA Philadelphia Live Stream
+#EXTINF:-1 tvg-id="NBAPHI" tvg-name="NBA Philadelphia 76ers Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-philadelphia-76ers.svg" group-title="NBA TEAM STREAM",NBA Philadelphia 76ers Live Stream
 http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:-1 tvg-id="NBAHOU" tvg-name="NBA Washington Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-washington-wizards.svg" group-title="NBA TEAM STREAM",NBA Washington Live Stream
+#EXTINF:-1 tvg-id="NBAHOU" tvg-name="NBA Washington Wizards Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-washington-wizards.svg" group-title="NBA TEAM STREAM",NBA Washington Wizards Live Stream
 http://allenz.xyz/neinz/video/nba/was.m3u8
-#EXTINF:-1 tvg-id="NBADEN" tvg-name="NBA Denver Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-denver-nuggets.svg" group-title="NBA TEAM STREAM",NBA Denver Live Stream
+#EXTINF:-1 tvg-id="NBADEN" tvg-name="NBA Denver Nuggets Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-denver-nuggets.svg" group-title="NBA TEAM STREAM",NBA Denver Nuggets Live Stream
 http://allenz.xyz/neinz/video/nba/was.m3u8
 #EXTINF:-1 tvg-id="NBANYK" tvg-name="NBA New York Knicks Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-new-york-knicks.svg" group-title="NBA TEAM STREAM",NBA New York Knicks Live Stream
 http://allenz.xyz/neinz/video/nba/nyk.m3u8
@@ -21,3 +21,53 @@ http://allenz.xyz/neinz/video/nba/nyk.m3u8
 http://allenz.xyz/neinz/video/nba/pho.m3u8
 #EXTINF:-1 tvg-id="NBANOP" tvg-name="NBA New Orleans Pelicans Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-new-orleans-pelicans.svg" group-title="NBA TEAM STREAM",NBA New Orleans Pelicans Live Stream
 http://allenz.xyz/neinz/video/nba/nop.m3u8
+
+#EXTINF:-1 tvg-id="NBALAL" tvg-name="NBA Los Angeles Lakers Live Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Los Angeles Lakers Live Stream
+http://allenz.xyz/neinz/video/nba/lal.m3u8
+#EXTINF:-1 tvg-id="NBAGSW" tvg-name="NBA Golden State Warriors Live Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Golden State Warriors Live Stream
+http://allenz.xyz/neinz/video/nba/gsw.m3u8
+#EXTINF:-1 tvg-id="NBABOS" tvg-name="NBA Boston Celtics Live Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Boston Celtics Live Stream
+http://allenz.xyz/neinz/video/nba/bos.m3u8
+#EXTINF:-1 tvg-id="NBADAL" tvg-name="NBA Dallas Mavericks Live Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Dallas Mavericks Live Stream
+http://allenz.xyz/neinz/video/nba/dal.m3u8
+#EXTINF:-1 tvg-id="NBALAC" tvg-name="NBA Los Angeles Clippers Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Los Angeles Clippers Live Stream
+http://allenz.xyz/neinz/video/nba/lac.m3u8
+#EXTINF:-1 tvg-id="NBAMIA" tvg-name="NBA Miami Heat Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Miami Heat Live Stream
+http://allenz.xyz/neinz/video/nba/mia.m3u8
+#EXTINF:-1 tvg-id="NBASAS" tvg-name="NBA San Antonio Spurs Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA San Antonio Spurs Live Stream
+http://allenz.xyz/neinz/video/nba/sas.m3u8
+#EXTINF:-1 tvg-id="NBAMIL" tvg-name="NBA Milwaukee Bucks Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Milwaukee Bucks Live Stream
+http://allenz.xyz/neinz/video/nba/mil.m3u8
+#EXTINF:-1 tvg-id="NBACHI" tvg-name="NBA Chicago Bulls Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Chicago Bulls Live Stream
+http://allenz.xyz/neinz/video/nba/chi.m3u8
+#EXTINF:-1 tvg-id="NBABRO" tvg-name="NBA Brooklyn Nets Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Brooklyn Nets Live Stream
+http://allenz.xyz/neinz/video/nba/bro.m3u8
+#EXTINF:-1 tvg-id="NBAPTB" tvg-name="NBA Portland Trail Blazers Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Portland Trail Blazers Live Stream
+http://allenz.xyz/neinz/video/nba/ptb.m3u8
+#EXTINF:-1 tvg-id="NBAUTA" tvg-name="NBA Utah Jazz Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Utah Jazz Live Stream
+http://allenz.xyz/neinz/video/nba/uta.m3u8
+#EXTINF:-1 tvg-id="NBACLE" tvg-name="NBA Cleveland Cavaliers Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Cleveland Cavaliers Live Stream
+http://allenz.xyz/neinz/video/nba/cle.m3u8
+#EXTINF:-1 tvg-id="NBAOCT" tvg-name="NBA Oklahoma City Thunder Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Oklahoma City Thunder Live Stream
+http://allenz.xyz/neinz/video/nba/oct.m3u8
+#EXTINF:-1 tvg-id="NBASAC" tvg-name="NBA Sacramento Kings Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Sacramento Kings Live Stream
+http://allenz.xyz/neinz/video/nba/sac.m3u8
+#EXTINF:-1 tvg-id="NBAATL" tvg-name="NBA Atlanta Hawks Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Atlanta Hawks Live Stream
+http://allenz.xyz/neinz/video/nba/atl.m3u8
+#EXTINF:-1 tvg-id="NBADET" tvg-name="NBA Detroit Pistons Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Detroit Pistons Live Stream
+http://allenz.xyz/neinz/video/nba/det.m3u8
+#EXTINF:-1 tvg-id="NBAIND" tvg-name="NBA Indiana Pacers Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Indiana Pacers Live Stream
+http://allenz.xyz/neinz/video/nba/ind.m3u8
+#EXTINF:-1 tvg-id="NBAORL" tvg-name="NBA Orlando Magic Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Orlando Magic Live Stream
+http://allenz.xyz/neinz/video/nba/orl.m3u8
+#EXTINF:-1 tvg-id="NBACHA" tvg-name="NBA Charlotte Hornets Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Charlotte Hornets Live Stream
+http://allenz.xyz/neinz/video/nba/cha.m3u8
+#EXTINF:-1 tvg-id="NBAMIN" tvg-name="NBA Minnesota Timberwolves Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Minnesota Timberwolves Live Stream
+http://allenz.xyz/neinz/video/nba/min.m3u8
+#EXTINF:-1 tvg-id="NBAMEM" tvg-name="NBA Memphis Grizzlies Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Memphis Grizzlies Live Stream
+http://allenz.xyz/neinz/video/nba/mem.m3u8
+#EXTINF:-1 tvg-id="NBAINO" tvg-name="NBA Indianapolis Olympians Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Indianapolis Olympians Live Stream - CHECCK
+http://allenz.xyz/neinz/video/nba/ino.m3u8
+#EXTINF:-1 tvg-id="NBACLG" tvg-name="NBA Cleveland Gladiators Stream" tvg-logo="" group-title="NBA TEAM STREAM",NBA Cleveland Gladiators Live Stream -- CHECK
+http://allenz.xyz/neinz/video/nba/clg.m3u8
+
