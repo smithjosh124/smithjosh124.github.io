@@ -15,7 +15,7 @@
 		<icon src="http://nba4live.xyz/nba/logo-toronto-raptors.svg"/>
 		
 	</channel>
-  <programme start="20191205190000 -0600" stop="20191205240000 -0600" channel="NBATOR>
+  <programme start="20191205190000 -0600" stop="20191205240000 -0600" channel="NBATOR">
     <title lang="en">NBA - Houston Rockets at Toronto Raptors</title>
     <desc lang="en">NBA - Houston Rockets at Toronto Raptors</desc>
     <date>20191205</date>
