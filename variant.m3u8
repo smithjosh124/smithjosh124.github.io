@@ -31,3 +31,24 @@ http://fadev.club/cache/NHL8.m3u8
 #EXTINF:Buffalo Sabres vs Calgary Flames,
 http://fadev.club/cache/NHL9.m3u8
 
+#EXTINF:-1 tvg-id="NBATOR." tvg-name="NBA TORONTO Live Stream" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDVw-tfoaB8c6blIlH7oLN4YHUY-CJAMhTuPw=s48-mo-c-c0xffffffff-rj-k-no" group-title="NBA TEAM STREAM",NBA TORONTO Live Stream
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:NBA TORONTO Live Stream,
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+
+#EXTINF:-1 tvg-id="NBATOR" tvg-name="NBA Toronto Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-toronto-raptors.svg" group-title="NBA TEAM STREAM",NBA Toronto Live Stream
+http://allenz.xyz/neinz/video/nba/tor.m3u8
+#EXTINF:-1 tvg-id="NBAHOU" tvg-name="NBA Houston Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-houston-rockets.svg" group-title="NBA TEAM STREAM",NBA Houston Live Stream
+http://allenz.xyz/neinz/video/nba/hou.m3u8
