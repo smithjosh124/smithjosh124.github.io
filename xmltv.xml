@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv date="{Current Date}" source-info-url="http://smithjosh124.github.io." source-info-name="LIVE GUIDE">
+ <channel id="NBATOR">
+		
+		<display-name>NBA Toronto Raptors Live Stream</display-name>
+		
+		<display-name>NBA Live Stream : Toronto Raptors</display-name>
+		
+		<display-name>1</display-name>
+		
+		<url>http://allenz.xyz/neinz/video/nba/tor.m3u8</url>
+		
+		<icon src="http://nba4live.xyz/nba/logo-toronto-raptors.svg"/>
+		
+	</channel>
+  <programme start="20191205190000 -0600" stop="20191205240000 -0600" channel="NBATOR>
+    <title lang="en">NBA - Houston Rockets at Toronto Raptors</title>
+    <desc lang="en">NBA - Houston Rockets at Toronto Raptors</desc>
+    <date>20191205</date>
+    <category lang="en">NBA TEAM STREAM</category>
+    <category lang="en">ALL</category>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
