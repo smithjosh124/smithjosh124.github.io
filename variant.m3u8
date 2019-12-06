@@ -4,49 +4,6 @@
 #EXT-X-MEDIA-SEQUENCE:2919
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 
-#EXTINF:houston-rockets-vs-toronto-raptors,
-http://weak_spell.carniferou.club/edge/NBA4/chunks.m3u8
-#EXTINF:houston-rockets-vs-toronto-raptors,
-http://weak_spell.carniferou.club/edge/NBA3/chunks.m3u8
-#EXTINF:denver-nuggets-vs-new-york-knicks,
-http://weak_spell.carniferou.club/edge/NBA2/chunks.m3u8
-#EXTINF:phoenix-suns-vs-new-orleans-pelicans,
-http://weak_spell.carniferou.club/edge/NBA1/chunks.m3u8
-#EXTINF:Chicago Blackhawks vs Boston Bruins,
-http://fadev.club/cache/NHL1.m3u8
-#EXTINF:Colorado Avalanche vs Montreal Canadiens,
-http://fadev.club/cache/NHL2.m3u8
-#EXTINF:Minnesota Wild vs Tampa Bay Lightning,
-http://fadev.club/cache/NHL3.m3u8
-#EXTINF:Vegas Golden Knights vs New York Islanders,
-http://fadev.club/cache/NHL4.m3u8
-#EXTINF:Arizona Coyotes vs Philadelphia Flyers,
-http://fadev.club/cache/NHL5.m3u8
-#EXTINF:San Jose Sharks vs Carolina Hurricanes,
-http://fadev.club/cache/NHL6.m3u8
-#EXTINF:New York Rangers vs Columbus Blue Jackets	,
-http://fadev.club/cache/NHL7.m3u8
-#EXTINF:Winnipeg Jets vs Dallas Stars,
-http://fadev.club/cache/NHL8.m3u8
-#EXTINF:Buffalo Sabres vs Calgary Flames,
-http://fadev.club/cache/NHL9.m3u8
-
-#EXTINF:-1 tvg-id="NBATOR." tvg-name="NBA TORONTO Live Stream" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDVw-tfoaB8c6blIlH7oLN4YHUY-CJAMhTuPw=s48-mo-c-c0xffffffff-rj-k-no" group-title="NBA TEAM STREAM",NBA TORONTO Live Stream
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
-#EXTINF:NBA TORONTO Live Stream,
-http://allenz.xyz/neinz/video/nba/tor.m3u8
 
 #EXTINF:-1 tvg-id="NBATOR" tvg-name="NBA Toronto Live Stream" tvg-logo="http://nba4live.xyz/nba/logo-toronto-raptors.svg" group-title="NBA TEAM STREAM",NBA Toronto Live Stream
 http://allenz.xyz/neinz/video/nba/tor.m3u8
