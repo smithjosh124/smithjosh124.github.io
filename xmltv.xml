@@ -3,7 +3,7 @@
 <display-name>CHANNEL1</display-name>
 </channel>
 <channel id="CHANNEL2">
-<display-name>CHANNEL2</display-name>
+<display-name>Toronto Raptors</display-name>
 </channel>
 <channel id="CHANNEL3">
 <display-name>CHANNEL3</display-name>
@@ -30,9 +30,9 @@
 <display-name>CHANNEL10</display-name>
 </channel>
 <programme start="20191209200045 +0100" stop="20191209220009 +0100" channel="CHANNEL2">
-<title lang="en">Tears of steel 1</title>
+<title lang="en">Toronto Raptors at Chicago bulls 8:00Pm EST</title>
 <desc lang="en">
-2012 Short Film/Science Fiction In an apocalyptic future, a group of soldiers and scientists takes refuge in Amsterdam to try to stop an army of robots that threatens the planet.
+Toronto Raptors at Chicago bulls 8:00Pm EST.
 </desc>
 </programme>
 <programme start="20191209204045 +0100" stop="20191209204545 +0100" channel="CHANNEL1">
