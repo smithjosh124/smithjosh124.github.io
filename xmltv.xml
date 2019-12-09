@@ -29,6 +29,12 @@
 <channel id="CHANNEL10">
 <display-name>CHANNEL10</display-name>
 </channel>
+<programme start="20191209204045 +0100" stop="20191209204545 +0100" channel="CHANNEL2">
+<title lang="en">Tears of steel 1</title>
+<desc lang="en">
+2012 Short Film/Science Fiction In an apocalyptic future, a group of soldiers and scientists takes refuge in Amsterdam to try to stop an army of robots that threatens the planet.
+</desc>
+</programme>
 <programme start="20191209204045 +0100" stop="20191209204545 +0100" channel="CHANNEL1">
 <title lang="en">Tears of steel 1</title>
 <desc lang="en">
