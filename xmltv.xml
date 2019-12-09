@@ -2,8 +2,8 @@
 <channel id="CHANNEL1">
 <display-name>CHANNEL1</display-name>
 </channel>
-<channel id="CHANNEL2">
-<display-name>Toronto</display-name>
+<channel id="NBATOR">
+<display-name>NBATOR</display-name>
 </channel>
 <channel id="CHANNEL3">
 <display-name>CHANNEL3</display-name>
@@ -29,7 +29,7 @@
 <channel id="CHANNEL10">
 <display-name>Raptors</display-name>
 </channel>
-<programme start="20191209200045 -0500" stop="20191209220009 -0500" channel="CHANNEL2">
+<programme start="20191209200045 -0500" stop="20191209220009 -0500" channel="NBATOR">
 <title lang="en">Toronto Raptors at Chicago bulls 8:00Pm EST</title>
 <desc lang="en">
 Toronto Raptors at Chicago bulls 8:00Pm EST.
