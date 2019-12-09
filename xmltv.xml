@@ -2,34 +2,19 @@
 <channel id="CHANNEL1">
 <display-name>CHANNEL1</display-name>
 </channel>
+<channel id="NBACHI">
+<display-name>NBACHI</display-name>
+</channel> 
 <channel id="NBATOR">
 <display-name>NBATOR</display-name>
 </channel>
-<channel id="CHANNEL3">
-<display-name>CHANNEL3</display-name>
-</channel>
-<channel id="CHANNEL4">
-<display-name>CHANNEL4</display-name>
-</channel>
-<channel id="CHANNEL5">
-<display-name>CHANNEL5</display-name>
-</channel>
-<channel id="CHANNEL6">
-<display-name>CHANNEL6</display-name>
-</channel>
-<channel id="CHANNEL7">
-<display-name>CHANNEL7</display-name>
-</channel>
-<channel id="CHANNEL 8">
-<display-name>CHANNEL 8</display-name>
-</channel>
-<channel id="CHANNEL9">
-<display-name>CHANNEL9</display-name>
-</channel>
-<channel id="CHANNEL10">
-<display-name>Raptors</display-name>
-</channel>
 <programme start="20191209200045 -0500" stop="20191209220009 -0500" channel="NBATOR">
+<title lang="en">Toronto Raptors at Chicago bulls 8:00Pm EST</title>
+<desc lang="en">
+Toronto Raptors at Chicago bulls 8:00Pm EST.
+</desc>
+</programme>
+<programme start="20191209200045 -0500" stop="20191209220009 -0500" channel="NBACHI">
 <title lang="en">Toronto Raptors at Chicago bulls 8:00Pm EST</title>
 <desc lang="en">
 Toronto Raptors at Chicago bulls 8:00Pm EST.
